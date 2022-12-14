@@ -14,15 +14,12 @@ class Interest extends Component {
           animateOnce={true}
           initiallyVisible={true}
         >
-          <span className={classes.head}>WHAT I DO?</span>
-          <h2 className={classes.heading}>HERE ARE SOME OF MY EXPERTISE</h2>
+          <span className={classes.head}>WHAT DO I DO?</span>
+          <h2 className={classes.heading}>HERE ARE SOME OF MY SKILL SETS</h2>
           <div className={classes.Interest}>
-            <ScrollAnimation
-              
-              initiallyVisible={true}
-            >
+            <ScrollAnimation initiallyVisible={true}>
               <div className={classes.app}>
-                <h3>Web Develpoment</h3>
+                <h3>Web Development</h3>
                 <p>
                   I am a full stack web developer(MERN) and build websites using
                   HTML, CSS, Javascript, ReactJs.
@@ -30,26 +27,25 @@ class Interest extends Component {
                 </p>
               </div>
             </ScrollAnimation>
-            <ScrollAnimation
-             
-              initiallyVisible={true}
-            >
+            <ScrollAnimation initiallyVisible={true}>
               <div className={classes.web}>
-                <h3>App Develpoment</h3>
+                <h3>App Development</h3>
                 <p>
-                  I am a novice mobile app developer, having only recently learned React Native. Come back soon to see some cool projects that I will post here!{" "}
+                  I am a novice mobile app developer, having only recently
+                  learned React Native. Come back soon to see some cool projects
+                  that I will post here!{" "}
                 </p>
               </div>
             </ScrollAnimation>
 
-            <ScrollAnimation
-           
-              initiallyVisible={true}
-            >
+            <ScrollAnimation initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other Interests</h3>
                 <p>
-                 I'm very interested in coding automation scripts for video games, such as Runescape or World of Warcraft. I frequently use Java for these tasks, though I am in the process of learning Go.{" "}
+                  I'm very interested in coding automation scripts for video
+                  games, such as Runescape or World of Warcraft. I frequently
+                  use Java for these tasks, though I am in the process of
+                  learning Go.{" "}
                 </p>
               </div>
             </ScrollAnimation>

@@ -5,6 +5,7 @@ import Sidebar from './components/sidebar/Sidebar';
 import About from './components/about/About';
 import Education from './components/Education/Education';
 import Interest from './components/skills/Interest'
+import Projects from './components/projects/Projects'
 import CarouselImages from './components/carousel/CarouselImages.js'
 //template taken from https://github.com/mittalsam98/react-portfolio
 
@@ -33,6 +34,7 @@ class App extends Component {
             <About />
             <Interest />
             <Education />
+            <Projects />
           </div>
         </div>
       </Router>

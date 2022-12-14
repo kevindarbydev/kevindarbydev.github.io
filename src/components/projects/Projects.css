@@ -1,0 +1,19 @@
+.project-imgs{
+    max-width: 350px;
+    max-height: 350px;
+}
+#projects{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+figure {
+    display: inline-block;
+    
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {   
+    text-align: center;
+}

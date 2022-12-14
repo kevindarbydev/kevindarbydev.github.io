@@ -25,11 +25,17 @@ class Sidebar extends Component {
               ></a>{" "}
               kevindarbydev@gmail.com{" "}
             </p>
-<p>Website currently under construction... check back soon!</p>
+            <p>Website currently under construction... check back soon!</p>
             <ul className="sidebar-nav">
               <li className="sidebar-nav-items">
                 <Link smooth to="/#about" className="links">
                   About
+                </Link>
+              </li>
+
+              <li className="sidebar-nav-items">
+                <Link smooth to="/#interest" className="links">
+                  Skills
                 </Link>
               </li>
               <li className="sidebar-nav-items">
@@ -38,8 +44,8 @@ class Sidebar extends Component {
                 </Link>
               </li>
               <li className="sidebar-nav-items">
-                <Link smooth to="/#interest" className="links">
-                  Skills
+                <Link smooth to="/#projects" className="links">
+                  Projects
                 </Link>
               </li>
               {/* <li className="sidebar-nav-items"><a href="http://www.bloggingpeek.com" target="_blank" rel="opener noreferrer" className="links"> Blog<FiExternalLink/></a></li> */}
