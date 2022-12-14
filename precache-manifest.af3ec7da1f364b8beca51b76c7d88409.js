@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5343bde4f8df786a5f4616d5491be14",
+    "revision": "71e37030bbbe75d90d6135d4e2f20af0",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.5bc09813.chunk.css"
   },
   {
-    "revision": "918e1c038fe23b085f1d",
+    "revision": "d9570ff8d7c6d46e3120",
     "url": "/static/css/main.bc50bdf9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9bd76b54.chunk.js.LICENSE"
   },
   {
-    "revision": "918e1c038fe23b085f1d",
-    "url": "/static/js/main.4341ed26.chunk.js"
+    "revision": "d9570ff8d7c6d46e3120",
+    "url": "/static/js/main.10f34a29.chunk.js"
   },
   {
     "revision": "e70534e27df59ea6587d",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/losPollos.1d3c776e.png"
   },
   {
-    "revision": "0cb86e2e5fb7075be911d0997142a854",
-    "url": "/static/media/myPic.0cb86e2e.jpg"
+    "revision": "93c8c9a7d0455444e7e79e44f2ed6305",
+    "url": "/static/media/myPic.93c8c9a7.jpg"
   },
   {
     "revision": "7489c0b7e8c65fe26ccf0fcef7ccecdf",
