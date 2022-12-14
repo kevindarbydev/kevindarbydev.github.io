@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fc19c0e.chunk.css",
-    "main.js": "/static/js/main.d42eab78.chunk.js",
-    "main.js.map": "/static/js/main.d42eab78.chunk.js.map",
+    "main.css": "/static/css/main.bc50bdf9.chunk.css",
+    "main.js": "/static/js/main.4341ed26.chunk.js",
+    "main.js.map": "/static/js/main.4341ed26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.72a89dc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.72a89dc5.js.map",
-    "static/css/2.14351861.chunk.css": "/static/css/2.14351861.chunk.css",
-    "static/js/2.852b92a2.chunk.js": "/static/js/2.852b92a2.chunk.js",
-    "static/js/2.852b92a2.chunk.js.map": "/static/js/2.852b92a2.chunk.js.map",
+    "static/css/2.5bc09813.chunk.css": "/static/css/2.5bc09813.chunk.css",
+    "static/js/2.9bd76b54.chunk.js": "/static/js/2.9bd76b54.chunk.js",
+    "static/js/2.9bd76b54.chunk.js.map": "/static/js/2.9bd76b54.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bc27a507b092fb4ff3eebaf5bbfbf1dd.js": "/precache-manifest.bc27a507b092fb4ff3eebaf5bbfbf1dd.js",
+    "precache-manifest.f3d4d0753328cc918f3b662e24f7091c.js": "/precache-manifest.f3d4d0753328cc918f3b662e24f7091c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.14351861.chunk.css.map": "/static/css/2.14351861.chunk.css.map",
-    "static/css/main.7fc19c0e.chunk.css.map": "/static/css/main.7fc19c0e.chunk.css.map",
-    "static/js/2.852b92a2.chunk.js.LICENSE": "/static/js/2.852b92a2.chunk.js.LICENSE",
-    "static/media/Pencil.jpg": "/static/media/Pencil.38828042.jpg",
+    "static/css/2.5bc09813.chunk.css.map": "/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.bc50bdf9.chunk.css.map": "/static/css/main.bc50bdf9.chunk.css.map",
+    "static/js/2.9bd76b54.chunk.js.LICENSE": "/static/js/2.9bd76b54.chunk.js.LICENSE",
     "static/media/blogSite.png": "/static/media/blogSite.d7625531.png",
-    "static/media/carousel.jpg": "/static/media/carousel.d04f3367.jpg",
     "static/media/losPollos.png": "/static/media/losPollos.1d3c776e.png",
     "static/media/myPic.jpg": "/static/media/myPic.0cb86e2e.jpg",
     "static/media/promoPage.png": "/static/media/promoPage.7489c0b7.png",
@@ -24,9 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.72a89dc5.js",
-    "static/css/2.14351861.chunk.css",
-    "static/js/2.852b92a2.chunk.js",
-    "static/css/main.7fc19c0e.chunk.css",
-    "static/js/main.d42eab78.chunk.js"
+    "static/css/2.5bc09813.chunk.css",
+    "static/js/2.9bd76b54.chunk.js",
+    "static/css/main.bc50bdf9.chunk.css",
+    "static/js/main.4341ed26.chunk.js"
   ]
 }
