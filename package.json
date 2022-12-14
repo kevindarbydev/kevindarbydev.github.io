@@ -1,13 +1,13 @@
 {
-  "name": "mittal",
+  "name": "Kevin-Portfolio",
   "version": "0.1.0",
+  "homepage": "https://kevindarbydev.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "animate.css": "^3.7.2",
-    "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.12.0",
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }

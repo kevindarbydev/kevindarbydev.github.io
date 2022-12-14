@@ -6,6 +6,7 @@ import About from './components/about/About';
 import Education from './components/Education/Education';
 import Interest from './components/skills/Interest'
 import CarouselImages from './components/carousel/CarouselImages.js'
+//template taken from https://github.com/mittalsam98/react-portfolio
 
 
 class App extends Component {
