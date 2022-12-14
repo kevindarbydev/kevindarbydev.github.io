@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93288adf.chunk.css",
+    "main.js": "/static/js/main.dd6419df.chunk.js",
+    "main.js.map": "/static/js/main.dd6419df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72a89dc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72a89dc5.js.map",
+    "static/css/2.14351861.chunk.css": "/static/css/2.14351861.chunk.css",
+    "static/js/2.151b16ad.chunk.js": "/static/js/2.151b16ad.chunk.js",
+    "static/js/2.151b16ad.chunk.js.map": "/static/js/2.151b16ad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9506261fe7f9277e171dc6cc90488075.js": "/precache-manifest.9506261fe7f9277e171dc6cc90488075.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.14351861.chunk.css.map": "/static/css/2.14351861.chunk.css.map",
+    "static/css/main.93288adf.chunk.css.map": "/static/css/main.93288adf.chunk.css.map",
+    "static/js/2.151b16ad.chunk.js.LICENSE": "/static/js/2.151b16ad.chunk.js.LICENSE",
+    "static/media/Pencil.jpg": "/static/media/Pencil.38828042.jpg",
+    "static/media/carousel.jpg": "/static/media/carousel.d04f3367.jpg",
+    "static/media/myPic.jpg": "/static/media/myPic.0cb86e2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72a89dc5.js",
+    "static/css/2.14351861.chunk.css",
+    "static/js/2.151b16ad.chunk.js",
+    "static/css/main.93288adf.chunk.css",
+    "static/js/main.dd6419df.chunk.js"
+  ]
+}
