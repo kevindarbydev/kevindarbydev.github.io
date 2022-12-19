@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c173a0e.css",
+    "main.js": "/static/js/main.72ef0342.js",
+    "static/media/losPollos.png": "/static/media/losPollos.e54fa15b449fc56faa6a.png",
+    "static/media/blogSite.png": "/static/media/blogSite.eac28d21e5eda194ba3a.png",
+    "static/media/promoPage.png": "/static/media/promoPage.0301e1e89a7f3b6a108d.png",
+    "static/media/ticketbl.png": "/static/media/ticketbl.6b42bdec556af247de4a.png",
+    "static/media/myPic.jpg": "/static/media/myPic.8ccfdc401678060eb00c.jpg",
+    "index.html": "/index.html",
+    "main.7c173a0e.css.map": "/static/css/main.7c173a0e.css.map",
+    "main.72ef0342.js.map": "/static/js/main.72ef0342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c173a0e.css",
+    "static/js/main.72ef0342.js"
+  ]
+}
