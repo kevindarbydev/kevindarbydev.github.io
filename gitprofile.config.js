@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'kevindarbydev', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -20,9 +20,9 @@ const config = {
     medium: 'arifszn',
     dev: 'arifszn',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
+    website: 'https://kevindarbydev.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'kevindarbydev@gmail.com',
   },
   resume: {
     fileUrl:
@@ -34,11 +34,9 @@ const config = {
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
     'PHPUnit',
     'CSS',
     'Antd',
