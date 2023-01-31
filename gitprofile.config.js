@@ -38,7 +38,6 @@ const config = {
     'Git',
     'CSS',
     'Tailwind',
-    '',
   ],
   experiences: [
     {
@@ -78,14 +77,14 @@ const config = {
       title: 'TicketBlaster',
       description:
         'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. MERN Stack',
-      imageUrl: 'src/assets/TBpreview.png',
+      imageUrl: 'https://imgur.com/CXtwEY1',
       link: 'https://clever-hotteok-f60642.netlify.app',
     },
     {
       title: 'Los Pollos Hermanos',
       description:
         'Mock website for restauraunt "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS',
-      imageUrl: 'src/assets/LPHpreview.png',
+      imageUrl: 'https://imgur.com/SeeLuoQ',
       link: 'https://tiny-kitten-7814e0.netlify.app',
     },
   ],
