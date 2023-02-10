@@ -7,7 +7,20 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: [
+        'Kevindarbydev.Github.io',
+        'Kevindarbydev',
+        'RunescapeAlKharidAgilityScript',
+        'runescapeDraynorAgilityScript',
+        'LosPollosWebpageHTML-CSS',
+        'ReactExpenseTracker',
+        'HelloWorldReactNative',
+        'SpringBootMarketplace',
+        'WebDev2_ClassExerciseOne',
+        'runescapeChickenKillerScript',
+        'nodeJSrest',
+        'phpmarketplace',
+      ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -90,14 +103,14 @@ const config = {
     {
       title: 'WOW Item Lookup',
       description:
-        'Project to practice working with APIs in React, enter a number between 5000 and 50000.',
-      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
+        'Project to practice working with APIs in React, enter a number between 5000 and 50000. Image coming soon!',
+      imageUrl: '',
       link: 'cheery-speculoos-659bd3.netlify.app',
     },
     {
       title: 'Personal Weather App',
       description:
-        'Search for the weather anywhere in North America, loads Montreal by default.',
+        'Search for the weather anywhere in North America, loads Montreal by default. Image coming soon!',
       imageUrl: '',
       link: 'https://kevin-darby.ca',
     },
