@@ -87,6 +87,20 @@ const config = {
       imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
       link: 'https://tiny-kitten-7814e0.netlify.app',
     },
+    {
+      title: 'WOW Item Lookup',
+      description:
+        'Project to practice working with APIs in React, enter a number between 5000 and 50000.',
+      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
+      link: 'cheery-speculoos-659bd3.netlify.app',
+    },
+    {
+      title: 'Personal Weather App',
+      description:
+        'Search for the weather anywhere in North America, loads Montreal by default.',
+      imageUrl: '',
+      link: 'https://kevin-darby.ca',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
