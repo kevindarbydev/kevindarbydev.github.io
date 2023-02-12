@@ -48,6 +48,7 @@ const config = {
     'Node.js',
     '.NET',
     'WPF',
+    'C#',
     'ASP.NET Core',
     'Entity Framework',
     'Java',
@@ -112,15 +113,15 @@ const config = {
     {
       title: 'WOW Item Lookup',
       description:
-        'Project to practice working with APIs in React, enter a number between 5000 and 50000. Image coming soon!',
-      imageUrl: '',
-      link: 'cheery-speculoos-659bd3.netlify.app',
+        'Project to practice working with APIs in React, enter a number between 5000 and 50000.',
+      imageUrl: 'https://i.imgur.com/qZsWLHE.png',
+      link: 'https://cheery-speculoos-659bd3.netlify.app',
     },
     {
       title: 'Personal Weather App',
       description:
-        'Search for the weather anywhere in North America, loads Montreal by default. Image coming soon!',
-      imageUrl: '',
+        'Search for the weather anywhere in North America, loads Montreal by default.',
+      imageUrl: 'https://i.imgur.com/wJOACFG.png',
       link: 'https://kevin-darby.ca',
     },
   ],
