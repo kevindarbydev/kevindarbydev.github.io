@@ -48,11 +48,13 @@ const config = {
     'Node.js',
     '.NET',
     'WPF',
+     'Java',
+    'Docker',
+    'Jenkins',
     'C#',
     'ASP.NET Core',
-    'Entity Framework',
-    'Java',
-    'Software Testing',
+    'Entity Framework',  
+    'AWS',
     'Spring Boot',
     'Python',
     'Thymeleaf',
@@ -123,6 +125,20 @@ const config = {
         'Search for the weather anywhere in North America, loads Montreal by default.',
       imageUrl: 'https://i.imgur.com/wJOACFG.png',
       link: 'https://kevin-darby.ca',
+    },
+      {
+      title: 'Regex Records',
+      description:
+        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+      imageUrl: 'https://i.imgur.com/T0P6IuT.png',
+      link: 'https://laravelprojectfsd05.com',
+    },
+       {
+      title: 'Regex Academy',
+      description:
+        'RegexAcademy is a school management system, where administrative users can enroll students & teachers into custom created classes. Users can also edit and delete any of their inputted entries. The program also has certain administrative helper features, such as exporting data to file, and graphical displays of the programs data. Made with WPF C#.',
+      imageUrl: 'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
+      link: 'https://github.com/kevindarbydev/RegexAcademy',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
