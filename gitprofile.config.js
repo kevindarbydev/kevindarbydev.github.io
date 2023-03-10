@@ -1,6 +1,50 @@
 // gitprofile.config.js
 
 const config = {
+   externalProjects: [
+    {
+      title: 'TicketBlaster',
+      description:
+        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. MERN Stack',
+      imageUrl: 'https://i.imgur.com/CXtwEY1.png',
+      link: 'https://clever-hotteok-f60642.netlify.app',
+    },
+    {
+      title: 'Los Pollos Hermanos',
+      description:
+        'Mock website for restauraunt "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS',
+      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
+      link: 'https://tiny-kitten-7814e0.netlify.app',
+    },
+    {
+      title: 'WOW Item Lookup',
+      description:
+        'Project to practice working with APIs in React, enter a number between 5000 and 50000.',
+      imageUrl: 'https://i.imgur.com/qZsWLHE.png',
+      link: 'https://cheery-speculoos-659bd3.netlify.app',
+    },
+    {
+      title: 'Personal Weather App',
+      description:
+        'Search for the weather anywhere in North America, loads Montreal by default.',
+      imageUrl: 'https://i.imgur.com/wJOACFG.png',
+      link: 'https://kevin-darby.ca',
+    },
+      {
+      title: 'Regex Records',
+      description:
+        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+      imageUrl: 'https://i.imgur.com/T0P6IuT.png',
+      link: 'https://laravelprojectfsd05.com',
+    },
+       {
+      title: 'Regex Academy',
+      description:
+        'RegexAcademy is a school management system, where administrative users can enroll students & teachers into custom created classes. Users can also edit and delete any of their inputted entries. The program also has certain administrative helper features, such as exporting data to file, and graphical displays of the programs data. Made with WPF C#.',
+      imageUrl: 'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
+      link: 'https://github.com/kevindarbydev/RegexAcademy',
+    },
+  ],
   github: {
     username: 'kevindarbydev', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
@@ -97,50 +141,7 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: 'TicketBlaster',
-      description:
-        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. MERN Stack',
-      imageUrl: 'https://i.imgur.com/CXtwEY1.png',
-      link: 'https://clever-hotteok-f60642.netlify.app',
-    },
-    {
-      title: 'Los Pollos Hermanos',
-      description:
-        'Mock website for restauraunt "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS',
-      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
-      link: 'https://tiny-kitten-7814e0.netlify.app',
-    },
-    {
-      title: 'WOW Item Lookup',
-      description:
-        'Project to practice working with APIs in React, enter a number between 5000 and 50000.',
-      imageUrl: 'https://i.imgur.com/qZsWLHE.png',
-      link: 'https://cheery-speculoos-659bd3.netlify.app',
-    },
-    {
-      title: 'Personal Weather App',
-      description:
-        'Search for the weather anywhere in North America, loads Montreal by default.',
-      imageUrl: 'https://i.imgur.com/wJOACFG.png',
-      link: 'https://kevin-darby.ca',
-    },
-      {
-      title: 'Regex Records',
-      description:
-        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
-      imageUrl: 'https://i.imgur.com/T0P6IuT.png',
-      link: 'https://laravelprojectfsd05.com',
-    },
-       {
-      title: 'Regex Academy',
-      description:
-        'RegexAcademy is a school management system, where administrative users can enroll students & teachers into custom created classes. Users can also edit and delete any of their inputted entries. The program also has certain administrative helper features, such as exporting data to file, and graphical displays of the programs data. Made with WPF C#.',
-      imageUrl: 'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
-      link: 'https://github.com/kevindarbydev/RegexAcademy',
-    },
-  ],
+ 
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
