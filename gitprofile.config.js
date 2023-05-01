@@ -1,7 +1,7 @@
 // gitprofile.config.js
 
 const config = {
-   externalProjects: [
+  externalProjects: [
     {
       title: 'TicketBlaster',
       description:
@@ -30,18 +30,19 @@ const config = {
       imageUrl: 'https://i.imgur.com/wJOACFG.png',
       link: 'https://kevin-darby.ca',
     },
-      {
+    {
       title: 'Regex Records',
       description:
         'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
       link: 'https://laravelprojectfsd05.com',
     },
-       {
+    {
       title: 'Regex Academy',
       description:
         'RegexAcademy is a school management system, where administrative users can enroll students & teachers into custom created classes. Users can also edit and delete any of their inputted entries. The program also has certain administrative helper features, such as exporting data to file, and graphical displays of the programs data. Made with WPF C#.',
-      imageUrl: 'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
+      imageUrl:
+        'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
       link: 'https://github.com/kevindarbydev/RegexAcademy',
     },
   ],
@@ -56,7 +57,13 @@ const config = {
         'Kevindarbydev',
         'RunescapeAlKharidAgilityScript',
         'runescapeDraynorAgilityScript',
+        'runescapeCanifisAgilityScript',
         'LosPollosWebpageHTML-CSS',
+        'Dreambot_ArdougneKnightScript',
+        'CustomScreenClick_Script',
+        'Stardust-Per-Hour-Calculator',
+        'Custom-Timer-Plugin',
+        'Custom-Laravel-Friends',
         'ReactExpenseTracker',
         'HelloWorldReactNative',
         'SpringBootMarketplace',
@@ -82,7 +89,7 @@ const config = {
     email: 'kevindarbydev@gmail.com',
   },
   resume: {
-    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://pdfhost.io/v/d2zigNzxe_goodResume', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -92,12 +99,12 @@ const config = {
     'Node.js',
     '.NET',
     'WPF',
-     'Java',
+    'Java',
     'Docker',
     'Jenkins',
     'C#',
     'ASP.NET Core',
-    'Entity Framework',  
+    'Entity Framework',
     'AWS',
     'Spring Boot',
     'Python',
@@ -141,7 +148,7 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
- 
+
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
