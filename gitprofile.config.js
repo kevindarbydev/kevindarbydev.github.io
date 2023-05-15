@@ -26,7 +26,7 @@ const config = {
     {
       title: 'JobLink',
       description:
-        'LinkedIn Clone where users can register as job seekers or recruiters.',
+        'LinkedIn Clone made with C# where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters and approve/deny applications. 3rd party APIs for Financial Stocks and News',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
       link: 'https://linkedinclone20230515152530.azurewebsites.net',
     },
