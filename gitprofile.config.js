@@ -24,16 +24,16 @@ const config = {
       link: 'https://cheery-speculoos-659bd3.netlify.app',
     },
     {
-      title: 'Personal Weather App',
+      title: 'JobLink',
       description:
-        'Search for the weather anywhere in North America, loads Montreal by default.',
-      imageUrl: 'https://i.imgur.com/wJOACFG.png',
-      link: 'https://kevin-darby.ca',
+        'LinkedIn Clone where users can register as job seekers or recruiters.',
+      imageUrl: 'https://i.imgur.com/WckbJVb.png',
+      link: 'https://linkedinclone20230515152530.azurewebsites.net',
     },
     {
       title: 'Regex Records',
       description:
-        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout. CURRENTLY MIGRATING',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
       link: 'https://laravelprojectfsd05.com',
     },
@@ -55,9 +55,6 @@ const config = {
       projects: [
         'Kevindarbydev.Github.io',
         'Kevindarbydev',
-        'RunescapeAlKharidAgilityScript',
-        'runescapeDraynorAgilityScript',
-        'runescapeCanifisAgilityScript',
         'LosPollosWebpageHTML-CSS',
         'Dreambot_ArdougneKnightScript',
         'CustomScreenClick_Script',
@@ -117,6 +114,13 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Idahys Partners',
+      position: 'Full Stack Developer',
+      from: 'March 2023',
+      to: 'May 2023',
+      companyLink: 'https://idahys.com/',
+    },
+    {
       company: 'SUKU',
       position: 'Community Manager',
       from: 'May 2020',
@@ -124,14 +128,14 @@ const config = {
       companyLink: 'https://www.suku.world',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Front End Web Developer',
+      body: 'Certification given at the half way point of John Abbott Colleges Full Stack Developer program',
+      year: 'Oct 2022',
+      link: 'https://media.licdn.com/dms/image/D4E22AQFwcIH_RjSXkQ/feedshare-shrink_2048_1536/0/1670944682840?e=1686787200&v=beta&t=vr_25eE1pLF4NI7d3lQ8d7CPHGWdyFll09NOMY4NM2M',
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Concordia University',
@@ -181,13 +185,10 @@ const config = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
       'emerald',
       'corporate',
       'synthwave',
       'retro',
-      'cyberpunk',
       'valentine',
       'halloween',
       'garden',
@@ -199,16 +200,10 @@ const config = {
       'wireframe',
       'black',
       'luxury',
-      'dracula',
-      'cmyk',
       'autumn',
-      'business',
-      'acid',
-      'lemonade',
       'night',
       'coffee',
       'winter',
-      'procyon',
     ],
 
     // Custom theme
