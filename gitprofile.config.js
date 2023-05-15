@@ -63,6 +63,8 @@ const config = {
         'Custom-Laravel-Friends',
         'ReactExpenseTracker',
         'HelloWorldReactNative',
+        'Clone-Test',
+        'Gtr-Nextjs',
         'SpringBootMarketplace',
         'WebDev2_ClassExerciseOne',
         'runescapeChickenKillerScript',
