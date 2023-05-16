@@ -5,28 +5,28 @@ const config = {
     {
       title: 'TicketBlaster',
       description:
-        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. MERN Stack',
+        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
       imageUrl: 'https://i.imgur.com/CXtwEY1.png',
       link: 'https://clever-hotteok-f60642.netlify.app',
     },
     {
       title: 'Los Pollos Hermanos',
       description:
-        'Mock website for restauraunt "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS',
+        'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS.',
       imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
       link: 'https://tiny-kitten-7814e0.netlify.app',
     },
     {
-      title: 'WOW Item Lookup',
+      title: 'OSRS Gains Tracker',
       description:
-        'Project to practice working with APIs in React, enter a number between 5000 and 50000.',
+        'Passion project made with Typescript and Next.js, users can track their characters progress over time. Currently under construction!',
       imageUrl: 'https://i.imgur.com/qZsWLHE.png',
       link: 'https://cheery-speculoos-659bd3.netlify.app',
     },
     {
       title: 'JobLink',
       description:
-        'LinkedIn Clone made with C# where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters and approve/deny applications. 3rd party APIs for Financial Stocks and News',
+        'LinkedIn Clone made with C# where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial stocks and news.',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
       link: 'https://linkedinclone20230515152530.azurewebsites.net',
     },
