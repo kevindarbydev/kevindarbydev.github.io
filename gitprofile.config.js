@@ -20,8 +20,8 @@ const config = {
       title: 'OSRS Gains Tracker',
       description:
         'Passion project made with Typescript and Next.js, users can track their characters progress over time. Currently under construction!',
-      imageUrl: 'https://i.imgur.com/qZsWLHE.png',
-      link: 'https://cheery-speculoos-659bd3.netlify.app',
+      imageUrl: 'https://www.runescape.com/img/rsp777/social-share.jpg?1',
+      link: 'https://next-js-typescript-learning.vercel.app',
     },
     {
       title: 'JobLink',
