@@ -1,4 +1,3 @@
-require('dotenv').config();
 // gitprofile.config.js
 
 const config = {
