@@ -11,7 +11,6 @@ import Certification from './certification';
 import Education from './education';
 import Project from './project';
 import Blog from './blog';
-import Footer from './footer';
 import {
   genericError,
   getInitialTheme,
@@ -197,15 +196,15 @@ const GitProfile = ({ config }) => {
                   </div>
                   <div className="lg:col-span-2 col-span-1">
                     <div className="grid grid-cols-1 gap-6">
+                      <ExternalProject
+                        loading={loading}
+                        externalProjects={sanitizedConfig.externalProjects}
+                        googleAnalytics={sanitizedConfig.googleAnalytics}
+                      />
                       <Project
                         repo={repo}
                         loading={loading}
                         github={sanitizedConfig.github}
-                        googleAnalytics={sanitizedConfig.googleAnalytics}
-                      />
-                      <ExternalProject
-                        loading={loading}
-                        externalProjects={sanitizedConfig.externalProjects}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
                       />
                       <Blog
@@ -217,13 +216,13 @@ const GitProfile = ({ config }) => {
                   </div>
                 </div>
               </div>
-              <footer
+              {/* <footer
                 className={`p-4 footer ${bgColor} text-base-content footer-center`}
               >
                 <div className="card compact bg-base-100 shadow">
                   <Footer content={sanitizedConfig.footer} loading={loading} />
                 </div>
-              </footer>
+              </footer> */}
             </Fragment>
           )
         )}

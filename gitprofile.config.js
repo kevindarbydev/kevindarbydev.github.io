@@ -140,16 +140,16 @@ const config = {
   ],
   education: [
     {
-      institution: 'Concordia University',
-      degree: 'Bachelors of Philosophy',
-      from: '2017',
-      to: '2019',
-    },
-    {
       institution: 'John Abbott College',
       degree: 'Full Stack Developer AEC',
       from: '2021',
       to: '2023',
+    },
+    {
+      institution: 'Concordia University',
+      degree: 'Bachelors of Philosophy',
+      from: '2017',
+      to: '2019',
     },
   ],
 
@@ -162,7 +162,7 @@ const config = {
     limit: 0, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: process.env.GA, // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: process.env.GA, //
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
@@ -221,11 +221,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: ``,
 };
 
 export default config;
