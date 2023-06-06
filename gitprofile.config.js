@@ -20,7 +20,8 @@ const config = {
       title: 'OSRS Gains Tracker',
       description:
         'Passion project made with Typescript and Next.js, users can track their characters progress over time. Currently under construction!',
-      imageUrl: 'https://www.runescape.com/img/rsp777/social-share.jpg?1',
+      imageUrl:
+        'https://play-lh.googleusercontent.com/7pDvQknMrDbhiP8GrY3HzmV86K9qYyUR5ZL0eBDh9wxuno0wXiGOKEm7vXgy9KUYgEM',
       link: 'https://next-js-typescript-learning.vercel.app',
     },
     {
@@ -81,14 +82,14 @@ const config = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: '',
+    dev: 'https://dev.to/kevindarbydev',
     stackoverflow: '20824834/kevdarby97', // format: userid/username
     website: 'https://kevindarbydev.github.io',
     phone: '',
     email: 'kevindarbydev@gmail.com',
   },
   resume: {
-    fileUrl: 'https://pdfhost.io/v/d2zigNzxe_goodResume', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://pdfhost.io/v/pJ8vGJHMx_JUNE_REACT_GENERAL', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
