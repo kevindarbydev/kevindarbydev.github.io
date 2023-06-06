@@ -82,7 +82,7 @@ const config = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'https://dev.to/kevindarbydev',
+    dev: 'kevindarbydev',
     stackoverflow: '20824834/kevdarby97', // format: userid/username
     website: 'https://kevindarbydev.github.io',
     phone: '',
