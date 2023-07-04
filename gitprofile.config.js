@@ -17,7 +17,7 @@ const config = {
       link: 'https://tiny-kitten-7814e0.netlify.app',
     },
     {
-      title: 'OSRS Gains Tracker',
+      title: 'OSRS Exp Tracker',
       description:
         'Passion project made with Typescript and Next.js, users can track their characters progress over time. Currently under construction!',
       imageUrl:
@@ -50,7 +50,7 @@ const config = {
   github: {
     username: 'kevindarbydev', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 8, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [
@@ -84,7 +84,7 @@ const config = {
     medium: '',
     dev: 'kevindarbydev',
     stackoverflow: '20824834/kevdarby97', // format: userid/username
-    website: 'https://kevindarbydev.github.io',
+    website: 'https://kevin-darby.ca',
     phone: '',
     email: 'kevindarbydev@gmail.com',
   },
@@ -98,7 +98,6 @@ const config = {
     'React.js',
     'Node.js',
     '.NET',
-    'WPF',
     'Java',
     'Docker',
     'Jenkins',
@@ -107,12 +106,10 @@ const config = {
     'Entity Framework',
     'AWS',
     'Spring Boot',
-    'Python',
-    'Thymeleaf',
     'MySQL',
     'MongoDB',
     'Git',
-    'CSS',
+    'Semantic HTML',
     'Tailwind',
   ],
   experiences: [
@@ -133,10 +130,16 @@ const config = {
   ],
   certifications: [
     {
+      name: 'Full Stack Developer',
+      body: `Certificate of completion of John Abbott College${"'"}s Full Stack Developer program`,
+      year: 'May 2023',
+      link: 'https://i.imgur.com/wQOwebo.png',
+    },
+    {
       name: 'Front End Web Developer',
-      body: 'Certification given at the half way point of John Abbott Colleges Full Stack Developer program',
+      body: `Certification given at the half way point of John Abbott College${"'"}s Full Stack Developer program`,
       year: 'Oct 2022',
-      link: 'https://media.licdn.com/dms/image/D4E22AQFwcIH_RjSXkQ/feedshare-shrink_2048_1536/0/1670944682840?e=1686787200&v=beta&t=vr_25eE1pLF4NI7d3lQ8d7CPHGWdyFll09NOMY4NM2M',
+      link: 'https://i.imgur.com/vkOp3C7.jpg',
     },
   ],
   education: [
