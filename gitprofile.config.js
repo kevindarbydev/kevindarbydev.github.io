@@ -50,7 +50,7 @@ const config = {
   github: {
     username: 'kevindarbydev', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 8, // How many projects to display.
+    limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [
@@ -63,7 +63,8 @@ const config = {
         'Custom-Laravel-Friends',
         'ReactExpenseTracker',
         'HelloWorldReactNative',
-        'Clone-Test',
+        'Plugin-Hub-Fork',
+        'Github-Stats-Transparent',
         'Gtr-Nextjs',
         'CSharpNumberGuessr',
         'nodeJSrest',
