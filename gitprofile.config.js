@@ -57,18 +57,15 @@ const config = {
         'Kevindarbydev.Github.io',
         'Kevindarbydev',
         'LosPollosWebpageHTML-CSS',
-        'Dreambot_ArdougneKnightScript',
         'CustomScreenClick_Script',
         'Stardust-Per-Hour-Calculator',
-        'Custom-Timer-Plugin',
+        'ReactWeatherApp',
         'Custom-Laravel-Friends',
         'ReactExpenseTracker',
         'HelloWorldReactNative',
         'Clone-Test',
         'Gtr-Nextjs',
-        'SpringBootMarketplace',
-        'WebDev2_ClassExerciseOne',
-        'runescapeChickenKillerScript',
+        'CSharpNumberGuessr',
         'nodeJSrest',
         'phpmarketplace',
       ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -89,7 +86,7 @@ const config = {
     email: 'kevindarbydev@gmail.com',
   },
   resume: {
-    fileUrl: 'https://pdfhost.io/v/pJ8vGJHMx_JUNE_REACT_GENERAL', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://pdfhost.io/v/7NjV0416m_JULY_RGEN', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -137,7 +134,7 @@ const config = {
     },
     {
       name: 'Front End Web Developer',
-      body: `Certification given at the half way point of John Abbott College${"'"}s Full Stack Developer program`,
+      body: `Certificate given at the half way point of John Abbott College${"'"}s Full Stack Developer program`,
       year: 'Oct 2022',
       link: 'https://i.imgur.com/vkOp3C7.jpg',
     },
