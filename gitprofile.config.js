@@ -17,12 +17,11 @@ const config = {
       link: 'https://tiny-kitten-7814e0.netlify.app',
     },
     {
-      title: 'OSRS Exp Tracker',
+      title: 'Diablo4.Tips',
       description:
-        'Passion project made with Typescript and Next.js, users can track their characters progress over time. Currently under construction!',
-      imageUrl:
-        'https://play-lh.googleusercontent.com/7pDvQknMrDbhiP8GrY3HzmV86K9qYyUR5ZL0eBDh9wxuno0wXiGOKEm7vXgy9KUYgEM',
-      link: 'https://next-js-typescript-learning.vercel.app',
+        'Guides & News for Diablo 4, made with Gatsby & Typescript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
+      imageUrl: 'https://i.imgur.com/1KadzJS.png',
+      link: 'https://Diablo4.Tips',
     },
     {
       title: 'JobLink',
@@ -164,7 +163,7 @@ const config = {
     limit: 0, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: process.env.GA, //
+    id: '', //
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
