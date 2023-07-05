@@ -21,7 +21,7 @@ const config = {
       description:
         'Guides & News for Diablo 4, made with Gatsby & Typescript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
       imageUrl: 'https://i.imgur.com/1KadzJS.png',
-      link: 'https://Diablo4.Tips',
+      link: 'https://diablo4tips.gatsbyjs.io/',
     },
     {
       title: 'JobLink',
@@ -163,7 +163,7 @@ const config = {
     limit: 0, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: '', //
+    id: process.env.GA, //
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
