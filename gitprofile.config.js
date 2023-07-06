@@ -65,6 +65,7 @@ const config = {
         'Plugin-Hub-Fork',
         'Github-Stats-Transparent',
         'Gtr-Nextjs',
+        'Fork_d4_tips_delete_me',
         'CSharpNumberGuessr',
         'nodeJSrest',
         'phpmarketplace',
