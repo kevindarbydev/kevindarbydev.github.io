@@ -21,7 +21,7 @@ const config = {
       description:
         'Guides & News for Diablo 4, made with Gatsby & Typescript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
       imageUrl: 'https://i.imgur.com/1KadzJS.png',
-      link: 'https://diablo4tips.gatsbyjs.io/',
+      link: 'https://diablo4.tips',
     },
     {
       title: 'JobLink',
