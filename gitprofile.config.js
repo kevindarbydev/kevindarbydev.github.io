@@ -3,19 +3,13 @@
 const config = {
   externalProjects: [
     {
-      title: 'TicketBlaster',
+      title: 'Regex Records',
       description:
-        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
-      imageUrl: 'https://i.imgur.com/CXtwEY1.png',
-      link: 'https://clever-hotteok-f60642.netlify.app',
+        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+      imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
+      link: 'http://calm-springs-25332.herokuapp.com',
     },
-    {
-      title: 'Los Pollos Hermanos',
-      description:
-        'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS.',
-      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
-      link: 'https://tiny-kitten-7814e0.netlify.app',
-    },
+
     {
       title: 'Diablo4.Tips',
       description:
@@ -26,16 +20,16 @@ const config = {
     {
       title: 'JobLink',
       description:
-        'LinkedIn Clone made with C# where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial stocks and news.',
+        'LinkedIn Clone made with C# where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
       link: 'https://linkedinclone20230515152530.azurewebsites.net',
     },
     {
-      title: 'Regex Records',
+      title: 'TicketBlaster',
       description:
-        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
-      imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
-      link: 'http://calm-springs-25332.herokuapp.com',
+        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
+      imageUrl: 'https://i.imgur.com/CXtwEY1.png',
+      link: 'https://clever-hotteok-f60642.netlify.app',
     },
     {
       title: 'Regex Academy',
@@ -44,6 +38,13 @@ const config = {
       imageUrl:
         'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
       link: 'https://github.com/kevindarbydev/RegexAcademy',
+    },
+    {
+      title: 'Los Pollos Hermanos',
+      description:
+        'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS.',
+      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
+      link: 'https://tiny-kitten-7814e0.netlify.app',
     },
   ],
   github: {
