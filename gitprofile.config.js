@@ -8,6 +8,7 @@ const config = {
         'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
       link: 'http://calm-springs-25332.herokuapp.com',
+      techStack: ['React', 'Laravel', 'Inertia.js', 'Stripe'],
     },
 
     {
@@ -16,13 +17,15 @@ const config = {
         'Guides & News for Diablo 4, made with Gatsby & Typescript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
       imageUrl: 'https://i.imgur.com/1KadzJS.png',
       link: 'https://diablo4.tips',
+      techStack: ['React', 'Gatsby', 'Typescript'],
     },
     {
       title: 'JobLink',
       description:
-        'LinkedIn Clone made with C# where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
+        'LinkedIn Clone where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
       link: 'https://linkedinclone20230515152530.azurewebsites.net',
+      techStack: ['C#', '.NET', 'CirrusUI', 'Azure'],
     },
     {
       title: 'TicketBlaster',
@@ -30,21 +33,24 @@ const config = {
         'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
       imageUrl: 'https://i.imgur.com/CXtwEY1.png',
       link: 'https://clever-hotteok-f60642.netlify.app',
+      techStack: ['MongoDB', 'Express', 'React', 'Node.js'],
     },
     {
       title: 'Regex Academy',
       description:
-        'RegexAcademy is a school management system, where administrative users can enroll students & teachers into custom created classes. Users can also edit and delete any of their inputted entries. The program also has certain administrative helper features, such as exporting data to file, and graphical displays of the programs data. Made with WPF C#.',
+        'RegexAcademy is a school management system, where administrative users can enroll students & teachers into custom created classes. Users can also edit and delete any of their inputted entries. The program also has certain administrative helper features, such as exporting data to file, and graphical displays of the programs data.',
       imageUrl:
         'https://user-images.githubusercontent.com/92401368/218127311-959fd027-30ac-4cab-ad5c-bb4933dd1ec5.png',
       link: 'https://github.com/kevindarbydev/RegexAcademy',
+      techStack: ['C#', '.NET', 'WPF', 'Entity Framework'],
     },
     {
       title: 'Los Pollos Hermanos',
       description:
-        'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad. Made with Vanilla JS, HTML & CSS.',
+        'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad.',
       imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
       link: 'https://tiny-kitten-7814e0.netlify.app',
+      techStack: ['HTML', 'CSS', 'Vanilla JS'],
     },
   ],
   github: {
@@ -163,7 +169,7 @@ const config = {
     limit: 0, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: process.env.GA, //
+    id: process.env.GA, //, //
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {

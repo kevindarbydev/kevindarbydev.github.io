@@ -33,6 +33,7 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                         className: 'mb-2 mx-auto',
                       })}
                     </h2>
+                    <div></div>
                     <div className="avatar w-full h-full">
                       <div className="w-20 h-20 mask mask-squircle mx-auto">
                         {skeleton({
@@ -101,6 +102,16 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                   <h2 className="font-semibold text-lg tracking-wide text-center opacity-60 mb-2">
                     {item.title}
                   </h2>
+                  <div className="flex justify-center mb-2">
+                    {item.techStack.map((tech, index) => (
+                      <div
+                        key={index}
+                        className="m-1 text-xs font-bold leading-sm px-3 py-1 badge-primary bg-opacity-90 rounded-full"
+                      >
+                        {tech}
+                      </div>
+                    ))}
+                  </div>
                   {item.imageUrl && (
                     <div className="avatar opacity-90">
                       <div className="w-20 h-20 mask mask-squircle">
