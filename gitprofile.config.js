@@ -50,7 +50,7 @@ const config = {
         'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad.',
       imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
       link: 'https://tiny-kitten-7814e0.netlify.app',
-      techStack: ['HTML', 'CSS', 'Vanilla JS'],
+      techStack: ['HTML', 'CSS', 'Javascript'],
     },
   ],
   github: {
