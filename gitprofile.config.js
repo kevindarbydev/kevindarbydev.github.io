@@ -24,7 +24,7 @@ const config = {
       description:
         'PLEASE NOTE: The link may take time to load, but it will eventually load. \nLinkedIn Clone where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
-      link: 'https://linkedinclone20230515152530.azurewebsites.net',
+      link: 'https://joblink.azurewebsites.net',
       techStack: ['C#', '.NET', 'CirrusUI', 'Azure'],
     },
     {
