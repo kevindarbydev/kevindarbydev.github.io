@@ -94,7 +94,7 @@ const config = {
     email: 'kevindarbydev@gmail.com',
   },
   resume: {
-    fileUrl: 'https://pdfhost.io/v/7NjV0416m_JULY_RGEN', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://pdfhost.io/v/wF.lyt7LA_NewFormat_Oct', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Typescript',
@@ -153,10 +153,10 @@ const config = {
       to: '2023',
     },
     {
-      institution: 'Concordia University',
-      degree: 'Bachelors of Philosophy',
-      from: '2017',
-      to: '2019',
+      institution: 'John Abbott College',
+      degree: 'Social Science DEC, Psychology Specialization',
+      from: '2014',
+      to: '2017',
     },
   ],
 
