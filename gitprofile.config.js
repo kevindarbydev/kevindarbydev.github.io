@@ -33,7 +33,7 @@ const config = {
         'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
       imageUrl: 'https://i.imgur.com/CXtwEY1.png',
       link: 'https://clever-hotteok-f60642.netlify.app',
-      techStack: ['MongoDB', 'Express', 'React', 'Node.js'],
+      techStack: ['MongoDB', 'Express', 'React.js', 'Node.js'],
     },
     {
       title: 'Regex Academy',
@@ -47,7 +47,7 @@ const config = {
     {
       title: 'Hearthstone Tile Matching Game',
       description:
-        'Tile matching/memory game made with Typescript and React, meant to practice my skills with Typescript... ',
+        'Tile matching/memory game made with Typescript and React, meant to practice my skills with Typescript... something something... TBD ',
       imageUrl:
         'https://downloadr2.apkmirror.com/wp-content/uploads/2019/08/5d54818ce8bba.png',
       link: 'https://hearthstone-memory-game.vercel.app',
