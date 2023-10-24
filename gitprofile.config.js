@@ -7,8 +7,8 @@ const config = {
       description:
         'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
-      link: 'http://calm-springs-25332.herokuapp.com',
-      techStack: ['React', 'Laravel', 'Inertia.js', 'Stripe'],
+      link: 'https://www.laravelprojectfsd05.com/',
+      techStack: ['React.js', 'Laravel', 'Inertia.js', 'Stripe'],
     },
 
     {
@@ -17,7 +17,7 @@ const config = {
         'Guides & News for Diablo 4, made with Gatsby & Typescript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
       imageUrl: 'https://i.imgur.com/1KadzJS.png',
       link: 'https://diablo4.tips',
-      techStack: ['React', 'Gatsby', 'Typescript'],
+      techStack: ['React.js', 'Gatsby.js', 'Typescript'],
     },
     {
       title: 'JobLink',
@@ -45,12 +45,13 @@ const config = {
       techStack: ['C#', '.NET', 'WPF', 'Entity Framework'],
     },
     {
-      title: 'Los Pollos Hermanos',
+      title: 'Hearthstone Tile Matching Game',
       description:
-        'My first website ever created. Mock website for restaurant "Los Pollos Hermanos" from Breaking Bad.',
-      imageUrl: 'https://i.imgur.com/SeeLuoQ.png',
-      link: 'https://tiny-kitten-7814e0.netlify.app',
-      techStack: ['HTML', 'CSS', 'Javascript'],
+        'Tile matching/memory game made with Typescript and React, meant to practice my skills with Typescript... ',
+      imageUrl:
+        'https://downloadr2.apkmirror.com/wp-content/uploads/2019/08/5d54818ce8bba.png',
+      link: 'https://hearthstone-memory-game.vercel.app',
+      techStack: ['React.js', 'Typescript', 'Javascript'],
     },
   ],
   github: {
