@@ -47,7 +47,7 @@ const config = {
     {
       title: 'Hearthstone Tile Matching Game',
       description:
-        'Tile matching/memory game made with Typescript and React, meant to practice my skills with Typescript... something something... TBD ',
+        'Tile matching/memory game made with Typescript and React, meant to practice my skills with Typescript.',
       imageUrl:
         'https://downloadr2.apkmirror.com/wp-content/uploads/2019/08/5d54818ce8bba.png',
       link: 'https://hearthstone-memory-game.vercel.app',
