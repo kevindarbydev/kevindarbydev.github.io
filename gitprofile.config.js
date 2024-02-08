@@ -5,7 +5,7 @@ const config = {
     {
       title: 'Regex Records',
       description:
-        'Discogs clone made with Laravel and React, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+        'Discogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
       link: 'https://www.laravelprojectfsd05.com/',
       techStack: ['React.js', 'Laravel', 'Inertia.js', 'Stripe'],
@@ -14,15 +14,15 @@ const config = {
     {
       title: 'Diablo4.Tips',
       description:
-        'Guides & News for Diablo 4, made with Gatsby & Typescript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
-      imageUrl: 'https://i.imgur.com/1KadzJS.png',
+        'Guides and news for Diablo 4, made with Gatsby & TypeScript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
+      imageUrl: '/d4logo.png',
       link: 'https://diablo4.tips',
-      techStack: ['React.js', 'Gatsby.js', 'Typescript'],
+      techStack: ['React.js', 'Gatsby.js', 'TypeScript'],
     },
     {
       title: 'JobLink',
       description:
-        'PLEASE NOTE: The link may take time to load, but it will eventually load. \nLinkedIn Clone where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
+        'PLEASE NOTE: The link may take time to load, but it will eventually load. \nLinkedIn clone where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
       link: 'https://joblink.azurewebsites.net',
       techStack: ['C#', '.NET', 'CirrusUI', 'Azure'],
@@ -30,7 +30,7 @@ const config = {
     {
       title: 'TicketBlaster',
       description:
-        'TicketMaster Clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
+        'TicketMaster clone app, where users can sign up and buy tickets for upcoming local concerts, with realtime data being fetched and displayed. Made with MERN Stack.',
       imageUrl: 'https://i.imgur.com/CXtwEY1.png',
       link: 'https://clever-hotteok-f60642.netlify.app',
       techStack: ['MongoDB', 'Express', 'React.js', 'Node.js'],
@@ -47,11 +47,10 @@ const config = {
     {
       title: 'Hearthstone Tile Matching Game',
       description:
-        'Tile matching/memory game made with Typescript and React, meant to practice my skills with Typescript.',
-      imageUrl:
-        'https://downloadr2.apkmirror.com/wp-content/uploads/2019/08/5d54818ce8bba.png',
+        'Tile matching memory game made with TypeScript and React.js, meant to practice my skills with TypeScript.',
+      imageUrl: '/hs-logo.png',
       link: 'https://hearthstone-memory-game.vercel.app',
-      techStack: ['React.js', 'Typescript', 'Javascript'],
+      techStack: ['React.js', 'TypeScript', 'JavaScript'],
     },
   ],
   github: {
@@ -77,6 +76,7 @@ const config = {
         'CSharpNumberGuessr',
         'nodeJSrest',
         'phpmarketplace',
+        'OSRS_WebApp',
       ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
@@ -98,10 +98,10 @@ const config = {
     fileUrl: 'https://pdfhost.io/v/4MZJ6QX26_NewFormat_Oct', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Typescript',
+    'TypeScript',
     'AWS',
     'Spring Boot',
-    'Javascript',
+    'JavaScript',
     'React.js',
     'Node.js',
     'Java',
@@ -114,22 +114,22 @@ const config = {
     'Laravel',
     'MySQL',
     'Semantic HTML',
-    'Tailwind',
+    'Cypress',
   ],
   experiences: [
+    {
+      company: 'Earthshot Group',
+      position: 'Full Stack Developer',
+      from: 'Dec 2023',
+      to: 'Mar 2024',
+      companyLink: 'https://earthshot.bio/',
+    },
     {
       company: 'Idahys Partners',
       position: 'Full Stack Developer',
       from: 'March 2023',
       to: 'May 2023',
       companyLink: 'https://idahys.com/',
-    },
-    {
-      company: 'SUKU',
-      position: 'Community Manager',
-      from: 'May 2020',
-      to: 'Jan 2021',
-      companyLink: 'https://www.suku.world',
     },
   ],
   certifications: [
@@ -170,7 +170,7 @@ const config = {
     limit: 0, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: process.env.GA, //, //
+    id: '',
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
