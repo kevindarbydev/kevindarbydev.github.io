@@ -8,7 +8,6 @@ const config = {
       link: 'https://regexrecords.shop/',
       techStack: ['React.js', 'Laravel', 'Inertia.js', 'Stripe'],
     },
-
     {
       title: 'Diablo4.Tips',
       description:
@@ -107,7 +106,7 @@ const config = {
     'Jenkins',
     'C#',
     '.NET Core',
-    'Entity Framework',
+    'Next.js',
     'PHP',
     'Laravel',
     'MySQL',
