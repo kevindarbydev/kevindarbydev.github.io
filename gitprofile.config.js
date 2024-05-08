@@ -11,7 +11,7 @@ const config = {
     {
       title: 'Diablo4.Tips',
       description:
-        'Guides and news for Diablo 4, made with Gatsby & TypeScript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
+        'Guides and news for Diablo 4, made with Gatsby.js & TypeScript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
       imageUrl: '/d4logo.png',
       link: 'https://diablo4.tips',
       techStack: ['React.js', 'Gatsby.js', 'TypeScript'],
