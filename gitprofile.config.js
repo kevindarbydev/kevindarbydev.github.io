@@ -3,9 +3,9 @@ const config = {
     {
       title: 'Regex Records',
       description:
-        'Discogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+        'UNDER MAINTENANCE :) \nDiscogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
-      link: 'https://regexrecords.shop/',
+      link: '#', // 'https://regexrecords.shop/'
       techStack: ['React.js', 'Laravel', 'Inertia.js', 'Stripe'],
     },
     {
