@@ -6,7 +6,7 @@ const config = {
         'UNDER MAINTENANCE :) \nDiscogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
       link: '#', // 'https://regexrecords.shop/'
-      techStack: ['React.js', 'Laravel', 'Inertia.js', 'Stripe'],
+      techStack: ['React.js', 'Laravel', 'Inertia.js', 'AWS'],
     },
     {
       title: 'Diablo4.Tips',
@@ -22,7 +22,7 @@ const config = {
         'PLEASE NOTE: The link may take time to load, but it will eventually load. \nLinkedIn clone where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
       imageUrl: 'https://i.imgur.com/WckbJVb.png',
       link: 'https://joblink.azurewebsites.net',
-      techStack: ['C#', '.NET', 'CirrusUI', 'Azure'],
+      techStack: ['C#', '.NET', 'Entity Framework', 'Azure'],
     },
     {
       title: 'TicketBlaster',
