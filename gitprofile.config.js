@@ -13,7 +13,7 @@ const config = {
       description:
         'Guides and news for Diablo 4, made with Gatsby.js & TypeScript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
       imageUrl: '/d4logo.png',
-      link: 'https://diablo4.tips',
+      link: 'https://d4tips-netlify.netlify.app/',
       techStack: ['React.js', 'Gatsby.js', 'TypeScript'],
     },
     {
