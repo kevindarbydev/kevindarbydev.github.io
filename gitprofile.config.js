@@ -87,7 +87,7 @@ const config = {
     medium: '',
     dev: 'kevindarbydev',
     stackoverflow: '20824834/kevdarby97', // format: userid/username
-    website: 'https://kevin-darby.ca',
+    website: 'https://kevindarbydev.com',
     phone: '',
     email: 'kevindarbydev@gmail.com',
   },
@@ -110,15 +110,25 @@ const config = {
     'PHP',
     'Laravel',
     'MySQL',
+    'PostgreSQL',
     'Semantic HTML',
     'Cypress',
+    'JUnit',
+    'Mockito',
   ],
   experiences: [
     {
+      company: 'Tecsys Inc.',
+      position: 'Java Developer',
+      from: '2024',
+      to: '2025',
+      companyLink: 'https://www.tecsys.com',
+    },
+    {
       company: 'Earthshot Group',
       position: 'Full Stack Developer',
-      from: 'Dec 2023',
-      to: 'Mar 2024',
+      from: '2023',
+      to: '2024',
       companyLink: 'https://earthshot.bio/',
     },
     {
