@@ -92,7 +92,7 @@ const config = {
     email: 'kevindarbydev@gmail.com',
   },
   resume: {
-    fileUrl: 'https://pdfhost.io/v/4MZJ6QX26_NewFormat_Oct', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'TypeScript',
