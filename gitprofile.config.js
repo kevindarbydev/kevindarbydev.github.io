@@ -19,10 +19,17 @@ const config = {
     {
       title: 'Worlds Biggest Problems',
       description:
-        'This app visualizes data surrounding global humanitarian conditions and ongoing efforts. Data can be viewed by the world map, or users can click through each country.',
+        'This app visualizes data surrounding global humanitarian conditions and ongoing efforts. The data was originally in several different spreadsheets, requiring a ETL (Extract, Transform, Load) strategy, which resulted in uniform MongoDB collections.',
       imageUrl: 'https://i.imgur.com/ktwNhB4.png',
       link: 'https://wbp-frontend.netlify.app',
-      techStack: ['Node.js', 'TypeScript', 'Redux', 'Express', 'Azure'],
+      techStack: [
+        'Node.js',
+        'TypeScript',
+        'Redux',
+        'Express',
+        'Azure',
+        'MongoDB',
+      ],
     },
     {
       title: 'TicketBlaster',
