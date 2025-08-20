@@ -1,13 +1,13 @@
 const config = {
   externalProjects: [
-    // {
-    //   title: 'Regex Records',
-    //   description:
-    //     'Discogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
-    //   imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
-    //   link: 'http://regexrecords.shop/', // ''
-    //   techStack: ['React.js', 'Laravel', 'Inertia.js', 'AWS'],
-    // },
+    {
+      title: 'Regex Records',
+      description: 'Currently under maintenance - check back soon',
+      //'Discogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
+      imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
+      link: '#', // ''
+      techStack: ['React.js', 'Laravel', 'Inertia.js', 'AWS'],
+    },
     {
       title: 'Diablo4.Tips',
       description:
@@ -16,14 +16,14 @@ const config = {
       link: 'https://d4tips-netlify.netlify.app/',
       techStack: ['React.js', 'Gatsby.js', 'TypeScript'],
     },
-    // {
-    //   title: 'JobLink',
-    //   description:
-    //     'PLEASE NOTE: The link may take time to load, but it will eventually load. LinkedIn clone where users can register as job seekers or recruiters. Friends system, messaging, users can apply to job postings and recruiters can approve/deny applications. 3rd party APIs for financial news and stock prices.',
-    //   imageUrl: 'https://i.imgur.com/WckbJVb.png',
-    //   link: 'https://joblink.azurewebsites.net',
-    //   techStack: ['C#', '.NET', 'Entity Framework', 'Azure'],
-    // },
+    {
+      title: 'Worlds Biggest Problems',
+      description:
+        'This app visualizes data surrounding global humanitarian conditions and ongoing efforts. Data can be viewed by the world map, or users can click through each country.',
+      imageUrl: 'https://i.imgur.com/ktwNhB4.png',
+      link: 'https://wbp-frontend.netlify.app',
+      techStack: ['Node.js', 'TypeScript', 'Redux', 'Azure'],
+    },
     {
       title: 'TicketBlaster',
       description:
