@@ -5,8 +5,8 @@ const config = {
       description: 'Currently under maintenance - check back soon',
       //'Discogs clone made with Laravel and React.js, users can add albums to their collections with real data fetched from Discogs API. Users can also add each other as friends and send messages, as well as sell and purchase albums, with Stripe and PayPal checkout.',
       imageUrl: 'https://i.imgur.com/tH3qq3M.jpg',
-      link: '#', // ''
-      techStack: ['React.js', 'Laravel', 'Inertia.js', 'AWS'],
+      link: 'https://regex-records-72f3ce597785.herokuapp.com', // ''
+      techStack: ['React.js', 'PHP', 'Laravel', 'Inertia.js', 'AWS'],
     },
     {
       title: 'Diablo4.Tips',
@@ -22,7 +22,7 @@ const config = {
         'This app visualizes data surrounding global humanitarian conditions and ongoing efforts. Data can be viewed by the world map, or users can click through each country.',
       imageUrl: 'https://i.imgur.com/ktwNhB4.png',
       link: 'https://wbp-frontend.netlify.app',
-      techStack: ['Node.js', 'TypeScript', 'Redux', 'Azure'],
+      techStack: ['Node.js', 'TypeScript', 'Redux', 'Express', 'Azure'],
     },
     {
       title: 'TicketBlaster',
