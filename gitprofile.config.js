@@ -11,7 +11,7 @@ const config = {
     {
       title: 'Diablo4.Tips',
       description:
-        'Guides and news for Diablo 4, made with Gatsby.js & TypeScript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining peformance.',
+        'Guides and news for Diablo 4, made with Gatsby.js & TypeScript. Leverages several gatsby plugins to deliver a feature-rich experience and displays high resolution images while maintaining performance.',
       imageUrl: '/d4logo.png',
       link: 'https://d4tips-netlify.netlify.app/',
       techStack: ['React.js', 'Gatsby.js', 'TypeScript'],
@@ -22,14 +22,7 @@ const config = {
         'This app visualizes data surrounding global humanitarian conditions and ongoing efforts. The data was originally in several different spreadsheets, requiring a ETL (Extract, Transform, Load) strategy, which resulted in uniform MongoDB collections.',
       imageUrl: 'https://i.imgur.com/ktwNhB4.png',
       link: 'https://wbp-frontend.netlify.app',
-      techStack: [
-        'Node.js',
-        'TypeScript',
-        'Redux',
-        'Express',
-        'Azure',
-        'MongoDB',
-      ],
+      techStack: ['Node.js', 'Redux', 'Express', 'MongoDB'],
     },
     {
       title: 'TicketBlaster',
